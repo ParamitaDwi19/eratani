@@ -3,4 +3,12 @@
     <string name="home">Home</string>
     <string name="product">Product</string>
     <string name="profile">Profile</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="tv_status">Status Here</string>
+    <string name="tv_name">Name Here</string>
+    <string name="no_hp">No. Hp</string>
+    <string name="tv_no_hp">No. Hp Here</string>
+    <string name="alamat">Alamat</string>
+    <string name="tv_alamat">Alamat Here</string>
 </resources>
