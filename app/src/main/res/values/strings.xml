@@ -11,4 +11,13 @@
     <string name="tv_no_hp">No. Hp Here</string>
     <string name="alamat">Alamat</string>
     <string name="tv_alamat">Alamat Here</string>
+    <string name="tv_item_name">Jamur ABC</string>
+    <string name="tv_item_amount">9</string>
+    <string name="unit">Kg</string>
+    <string name="tv_item_cultivator">Cultivator Username</string>
+    <string name="tv_item_temp">29.8</string>
+    <string name="tv_item_humid">68.1</string>
+    <string name="tv_text_panen">Panen dalam (hari)</string>
+    <string name="tv_panen">11</string>
+    <string name="tv_text_grafik">Grafik Suhu dan Kelembapan</string>
 </resources>
