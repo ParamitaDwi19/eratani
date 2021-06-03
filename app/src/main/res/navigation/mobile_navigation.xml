@@ -13,12 +13,6 @@
         tools:layout="@layout/fragment_monitor" />
 
     <fragment
-        android:id="@+id/navigation_product"
-        android:name="com.capstone.eratani.product.ProductFragment"
-        android:label="@string/product"
-        tools:layout="@layout/fragment_product" />
-
-    <fragment
         android:id="@+id/navigation_profile"
         android:name="com.capstone.eratani.profile.ProfileFragment"
         android:label="@string/profile"
